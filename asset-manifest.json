@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NIM_PDW11/static/css/main.98cc2137.css",
+    "main.js": "/NIM_PDW11/static/js/main.1a66d8d7.js",
+    "static/js/453.c0c9e167.chunk.js": "/NIM_PDW11/static/js/453.c0c9e167.chunk.js",
+    "index.html": "/NIM_PDW11/index.html",
+    "main.98cc2137.css.map": "/NIM_PDW11/static/css/main.98cc2137.css.map",
+    "main.1a66d8d7.js.map": "/NIM_PDW11/static/js/main.1a66d8d7.js.map",
+    "453.c0c9e167.chunk.js.map": "/NIM_PDW11/static/js/453.c0c9e167.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98cc2137.css",
+    "static/js/main.1a66d8d7.js"
+  ]
+}
